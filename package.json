@@ -1,0 +1,17 @@
+{
+  "name": "Gtalk",
+  "version": "0.0.1",
+  "description": "Integração com gtalk",
+  "main": "app.js", 
+  "repository": "https://github.com/jaderfabiano/gtalk",
+  "keywords": [
+    "Chat", 
+    "xmpp",
+    "gtalk"    
+  ],
+  "author": "Jader Fabiano",
+  "license": "Free",
+  "dependencies": {
+    "simple-xmpp": "0.1.19"
+  }
+}
